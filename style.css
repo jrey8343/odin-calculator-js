@@ -67,3 +67,10 @@ html, body {
 .button:nth-of-type(4n), .button:last-of-type {
   background: oklch(70% .5 340);
 }
+
+footer {
+  text-align: center;
+  padding-top: 2rem;
+  font-weight: 700;
+  color: white;
+}
